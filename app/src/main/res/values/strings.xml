@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">AttendanceManager</string>
+    <string name="app_name">Attendance Manager</string>
+    <string name="page_title">@string/app_name</string>
+    <string name="lbl_name">Nome:</string>
+    <string name="lbl_name_hint">Digite seu nome</string>
+    <string name="lbl_email">Email:</string>
+    <string name="lbl_email_hint">e.x. aluno@fatec@sp.gov.br</string>
+    <string name="lbl_pass">Senha:</string>
+    <string name="lbl_pass_hint">Digite sua senha</string>
+    <string name="lbl_pass_confirm">Confirme a senha:</string>
+    <string name="lbl_pass_hint_confirm">Digite sua senha</string>
+    <string name="btn_login">Entrar</string>
+    <string name="btn_register">Cadastre-se</string>
+    <string name="lbl_go_to_register">Ainda não possui um perfil?</string>
+    <string name="lbl_go_to_login">Já possuo um perfil!</string>
+    <string name="lbl_finish">Finalizar</string>
+    <string name="lbl_choose_avatar">Escolha seu avatar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
