@@ -14,6 +14,9 @@
         tools:replace="allowBackup"
         tools:targetApi="31">
         <activity
+            android:name=".ui.credentials.register.AvatarSelectionActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.credentials.register.UserRegisterActivity"
             android:exported="false" />
         <activity
